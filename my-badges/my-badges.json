@@ -4,48 +4,48 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/SaskyaPanchaud/WordPress/commit/ac94612a1334cc53b358bfbe9752281e6125d17a\"><strong>a</strong>c94612a1334cc53b358bfbe9752281e6125d17a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/SaskyaPanchaud/WordPress/commit/ab32f96864edab69253bb61dfce1ad4995ec4eae\"><strong>ab</strong>32f96864edab69253bb61dfce1ad4995ec4eae</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/SaskyaPanchaud/DAI-Lab_HTTP-infrastructure/commit/eccbc3da19d8a4d368bd94c98382e034ac037900\">eccbc3d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/dashboard-certificates/commit/fc6b4b265800d7cba865cfc174f93f87eebca34b\">fc6b4b2</a>\n- <a href=\"https://github.com/SaskyaPanchaud/WordPress/commit/ab32f96864edab69253bb61dfce1ad4995ec4eae\">ab32f96</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "public-keys-2",
     "tier": 2,
     "desc": "I have two public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"step\".",
     "body": "My favorite commit message words are:\n\n1. step (used 18 times)\n2. done (used 17 times)\n3. update (used 15 times)\n4. rendu.md (used 13 times)\n5. merge (used 10 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "rebel-coder",
     "tier": 0,
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/rebel-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   }
 ]
