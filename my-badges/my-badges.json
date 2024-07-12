@@ -24,7 +24,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/dashboard-certificates/commit/fc6b4b265800d7cba865cfc174f93f87eebca34b\">fc6b4b2</a>\n- <a href=\"https://github.com/SaskyaPanchaud/WordPress/commit/ab32f96864edab69253bb61dfce1ad4995ec4eae\">ab32f96</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/dashboard-certificates/commit/14b2727b27d3ce812c4ff309da35c5db8e998404\">14b2727</a>\n- <a href=\"https://github.com/epfl-si/dashboard-certificates/commit/fc6b4b265800d7cba865cfc174f93f87eebca34b\">fc6b4b2</a>\n- <a href=\"https://github.com/SaskyaPanchaud/WordPress/commit/ab32f96864edab69253bb61dfce1ad4995ec4eae\">ab32f96</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"step\".",
-    "body": "My favorite commit message words are:\n\n1. step (used 18 times)\n2. done (used 17 times)\n3. update (used 15 times)\n4. rendu.md (used 13 times)\n5. merge (used 10 times)",
+    "desc": "My favorite word is \"done\".",
+    "body": "My favorite commit message words are:\n\n1. done (used 19 times)\n2. step (used 18 times)\n3. update (used 15 times)\n4. rendu.md (used 13 times)\n5. merge (used 12 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
